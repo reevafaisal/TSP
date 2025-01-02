@@ -12,7 +12,7 @@ The images below were generated using my output files on a graph visualizer.
 </p>  
 
 
-## Part A: Minimum Spanning Tree (MST)
+## Part A: MST - Minimum Spanning Tree
 
 Goal: Find the subset of edges that connects all vertices in a graph with the minimum total weight.
 
@@ -22,7 +22,7 @@ Goal: Find the subset of edges that connects all vertices in a graph with the mi
 
 Output: Total MST weight and the edges used, formatted as node pairs.
 
-## Part B: FASTTSP (Approximate TSP)
+## Part B: FASTTSP - Approximate TSP
 
 Goal: Approximate a solution to the Travelling Salesperson Problem for large graphs.
 
@@ -32,7 +32,7 @@ Goal: Approximate a solution to the Travelling Salesperson Problem for large gra
 
 Output: The approximate total tour length and the sequence of visited nodes.
 
-## Part C: OPTTSP (Optimal TSP)
+## Part C: OPTTSP - Optimal TSP
 
 Goal: Compute the exact optimal solution for the TSP using a branch-and-bound algorithm.
 
