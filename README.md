@@ -3,10 +3,14 @@
 - Applied branch and bound algorithm to solve TSP problem for complete weighted graph, used MST to get the lower bound for remaining cost, and explored various heuristic approaches to achieve a nearly-optimal solution.
 - To find the optimal tour, we started with our nearly optimal solution and then employed the brute-force method of exhaustive enumeration to achieve the optimal path while being time efficient. 
 
+#### Note:
+The images below were generated using my output files on a graph visualizer.
+
 <p> 
   <img src="assets/Screenshot 2024-11-06 at 10.37.14 AM.png" width="100%">
   <img src="assets/Screenshot 2024-11-06 at 10.37.44 AM.png" width="100%"> 
 </p>  
+
 
 ## Part A: Minimum Spanning Tree (MST)
 
