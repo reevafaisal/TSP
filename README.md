@@ -38,5 +38,5 @@ Goal: Compute the exact optimal solution for the TSP using a branch-and-bound al
 
 Output: The optimal tour length and the exact sequence of visited nodes.
 
-## Note: 
+### Note: 
 Due to university policy, the code is not publicly available but can be viewed upon request.
