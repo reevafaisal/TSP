@@ -23,5 +23,9 @@ plugins:
 remote_theme: reevafaisal/jekyll-theme-minimal-new
 
 navigation:
-  - name: Usage Instructions
-    link: ./index.html#usage-instructions
+  - name: MST
+    link: ./index.html#part-a:-minimum-spanning-tree-(mst)
+  - name: FASTTSP
+    link: ./index.html#part-b:-fasttsp-(approximate-tsp)
+  - name: OPTTSP
+    link: ./index.html#part-c:-opttsp-(optimal-tsp)
