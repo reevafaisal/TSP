@@ -29,3 +29,4 @@ navigation:
     link: ./index.html#part-b:-fasttsp-%28approximate-tsp%29
   - name: OPTTSP
     link: ./index.html#part-c:-opttsp-%28optimal-tsp%29
+
