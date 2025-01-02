@@ -11,6 +11,7 @@ The images below were generated using my output files on a graph visualizer.
   <img src="assets/Screenshot 2024-11-06 at 10.37.44 AM.png" width="100%"> 
 </p>  
 
+---
 
 ## Minimum Spanning Tree
 
@@ -22,6 +23,8 @@ Goal: Find the subset of edges that connects all vertices in a graph with the mi
 
 Output: Total MST weight and the edges used, formatted as node pairs.
 
+---
+
 ## Approximate TSP
 
 Goal: Approximate a solution to the Travelling Salesperson Problem for large graphs.
@@ -32,6 +35,8 @@ Goal: Approximate a solution to the Travelling Salesperson Problem for large gra
 
 Output: The approximate total tour length and the sequence of visited nodes.
 
+---
+
 ## Optimal TSP
 
 Goal: Compute the exact optimal solution for the TSP using a branch-and-bound algorithm.
@@ -41,6 +46,10 @@ Goal: Compute the exact optimal solution for the TSP using a branch-and-bound al
 - Applied recursive permutations with intelligent pruning to guarantee the shortest tour within the time limit.
 
 Output: The optimal tour length and the exact sequence of visited nodes.
+
+---
+
+Technologies: C++
 
 ### Note: 
 Due to university policy, the code is not publicly available but can be viewed upon request.
