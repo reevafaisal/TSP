@@ -24,8 +24,8 @@ remote_theme: reevafaisal/jekyll-theme-minimal-new
 
 navigation:
   - name: MST
-    link: ./index.html#part-a:-minimum-spanning-tree-%28mst%28
+    link: ./index.html#part-a:-minimum-spanning-tree-%28mst%29
   - name: FASTTSP
-    link: ./index.html#part-b:-fasttsp-%28approximate-tsp%28
+    link: ./index.html#part-b:-fasttsp-%28approximate-tsp%29
   - name: OPTTSP
-    link: ./index.html#part-c:-opttsp-%28optimal-tsp%28
+    link: ./index.html#part-c:-opttsp-%28optimal-tsp%29
